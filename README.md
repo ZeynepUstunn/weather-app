@@ -1,6 +1,6 @@
 # 🌦️ Weather App (HTML - CSS - JavaScript)
 
-Bu proje, kullanıcıdan alınan şehir ismine göre **OpenWeatherMap API** üzerinden hava durumu verilerini getirip kullanıcıya gösteren basit ve etkileşimli bir web uygulamasıdır.
+Bu proje, kullanıcıdan alınan şehir ismine göre **Weather API** üzerinden hava durumu verilerini getirip kullanıcıya gösteren basit ve etkileşimli bir web uygulamasıdır.
 
 ## 🚀 Özellikler
 
