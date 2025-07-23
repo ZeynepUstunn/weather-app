@@ -9,6 +9,11 @@ Bu proje, kullanıcıdan alınan şehir ismine göre **Weather API** üzerinden 
 - Arama sonrası animasyonlu sonuç kutusu
 - Temiz ve duyarlı (responsive) arayüz
 
+## 🔗 Canlı Demo
+
+Projeyi canlı olarak görmek için:
+👉 https://zeynepustunn.github.io/weather-app/
+
 ## 🎥 Demo
 <img width="1908" height="916" alt="image" src="https://github.com/user-attachments/assets/1bb9b1db-3520-4734-a4f8-3e3293014d2a" />
 
